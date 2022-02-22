@@ -237,9 +237,9 @@ img{
 	width:58px;
 	height:52px;
 	top:20px;
-	left:20px;
+	left:20px;/*
 	background-image:url(../image/logo.png);
-	background-size:contain;
+	background-size:contain;*/
 	cursor:pointer;
 }
 .header-humb{
